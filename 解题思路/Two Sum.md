@@ -24,7 +24,7 @@ return [0, 1].
 
 空间：`O(n)`
 
-使用`STL map`实现，对于`map`的介绍参考[这里](https://github.com/poohRui/leetcode/blob/40e3b9e1e5d1e662c424ba986a2431776d47c71c/%E8%A7%A3%E9%A2%98%E6%80%9D%E8%B7%AF/Two%20Sum.md)
+使用`STL map`实现，对于`map`的介绍参考[这里]https://github.com/poohRui/leetcode/blob/master/%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/C%2B%2B%E6%93%8D%E4%BD%9C%E4%B9%8Bmap.md)
 
 
 
