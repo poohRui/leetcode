@@ -10,17 +10,23 @@
 
 ### 声明
 
-`map<key_type,value_type> map_name`
+```c++
+map<key_type,value_type> map_name;
+```
 
 ### 插入
 
 可以直接采用下标插入
 
-`map_name[key] = value;`
+```C++
+map_name[key] = value;
+```
 
 ### 查找
 
-`map<key_type,value_type>::iterator it = map_name.find(search_key);`
+```C++
+map<key_type,value_type>::iterator it = map_name.find(search_key);
+```
 
 最终`it == map_name.end()`表示没有找到
 
@@ -28,7 +34,9 @@
 
 * 声明迭代器
 
-  `map<key_type,value_type>::iterator it=map_name.begin()`
+  ```C++
+  map<key_type,value_type>::iterator it=map_name.begin()
+  ```
 
 * 循环遍历结束条件`it!=map_name.end()`
 
