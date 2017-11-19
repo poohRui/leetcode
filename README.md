@@ -6,6 +6,7 @@
 
 * [Two Sum](https://github.com/poohRui/leetcode/blob/master/%E8%A7%A3%E9%A2%98%E6%80%9D%E8%B7%AF/Two%20Sum.md)
 * [Add Two Numbers](https://github.com/poohRui/leetcode/blob/master/%E8%A7%A3%E9%A2%98%E6%80%9D%E8%B7%AF/Add%20Two%20Numbers.md)
+* [Longest Common Prefix](https://github.com/poohRui/leetcode/blob/master/%E8%A7%A3%E9%A2%98%E6%80%9D%E8%B7%AF/Longest%20Common%20Prefix.md)
 
 ## 常用方法篇
 
