@@ -12,6 +12,12 @@
 vector<type> vec;
 ```
 
+### 初始化
+
+```c++
+vector<type> vec(vec_size,init_value)
+```
+
 ### 在最后添加元素
 
 ```C++
